@@ -1,0 +1,23 @@
+.form, .image-view {
+  padding: 20px;
+  box-sizing: border-box;
+  width: 100vw;
+}
+
+.form input {
+  margin: 10px 0;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 5px;
+  padding-left: 5px;
+}
+
+.form button {
+  margin-top: 20px;
+}
+
+.code {
+  margin: 20px auto;
+  width: 50vw;
+  height: 50vw;
+  display: block;
+}

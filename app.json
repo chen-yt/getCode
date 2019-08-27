@@ -1,0 +1,7 @@
+{
+  "pages": [
+    "pages/getCode/index"
+  ],
+  "cloud": true,
+  "sitemapLocation": "sitemap.json"
+}
